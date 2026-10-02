@@ -3,6 +3,10 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --font-anton: "Anton", sans-serif;
+  --font-outfit: "Outfit", sans-serif;
+  --font-space-grotesk: "Space Grotesk", sans-serif;
+  --font-dancing-script: "Dancing Script", cursive;
 }
 
 @theme inline {
